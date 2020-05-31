@@ -1,0 +1,15 @@
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\bin\Debug\netstandard2.0\TheWeather.deps.json
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\bin\Debug\netstandard2.0\TheWeather.dll
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\TheWeather.csprojAssemblyReference.cache
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\TheWeather.AssemblyInfoInputs.cache
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\TheWeather.AssemblyInfo.cs
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\bin\Debug\netstandard2.0\ref\TheWeather.dll
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\bin\Debug\netstandard2.0\TheWeather.pdb
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\Views\WeatherPage.xaml.g.cs
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\TheWeather.csproj.CoreCompileInputs.cache
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\TheWeather.dll
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\ref\TheWeather.dll
+C:\Users\edria\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\TheWeather.pdb

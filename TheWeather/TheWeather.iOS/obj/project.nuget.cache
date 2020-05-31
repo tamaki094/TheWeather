@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GeMOzyct/I1AyTrKFs4cp1E3aeMDKZS0PPZXkEvbuYlnnZ3Fq9otzPStBrN+kjlVVsrrCagmdi28QLWa3QiwyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edria\\source\\repos\\TheWeather\\TheWeather\\TheWeather.iOS\\TheWeather.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edria\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\edria\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
